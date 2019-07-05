@@ -1,0 +1,3 @@
+CTRL - Velocidad.
+Arrow Left/Right - Doblar.
+Espacio - Turbo.
