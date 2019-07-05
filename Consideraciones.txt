@@ -1,0 +1,8 @@
+CTRL - Velocidad.
+Arrow Left/Right - Doblar.
+Espacio - Turbo.
+
+Desarrollado con Unity 2019.1.8f1
+
+SE DEBEN CARGAR AMBAS ESCENAS EN FILE->BUILD SETTINGS PARA LA TRANSICION ENTRE
+EL MENU PRINCIPAL Y LA ESCENA DE JUEGO.
